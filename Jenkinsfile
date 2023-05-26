@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools {
-	    maven "MAVEN"
+	    maven "maven"
 	    jdk "aws_jdk"
 	}
 
