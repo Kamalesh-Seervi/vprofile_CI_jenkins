@@ -109,3 +109,9 @@ http://<jenkins-IP>:8080/sonarqube-webhook
 - Add pipeline code now
 
 <img width="1552" alt="image" src="https://github.com/Kamalesh-Seervi/vprofile_CI_jenkins/assets/107933310/3bc4662c-61c2-412c-b624-f73e5687b58d">
+
+
+#DockerCI
+
+- Create IAM user in aws.
+- Add the aws credentials to jenkins 
